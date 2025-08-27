@@ -15,8 +15,7 @@ A cross-platform GUI application for managing SSH-based VPN connections.
 1. Install dependencies:
 2. pip install -r requirements.txt
 
-3. 
-2. Install system dependencies:
+3. Install system dependencies:
 - **Ubuntu/Debian**: `sudo apt install sshpass sshuttle`
 - **Windows**: Download and install sshpass for Windows
 
